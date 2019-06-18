@@ -1,0 +1,39 @@
+*{
+    font-family: 'Rosario', sans-serif;
+
+}
+
+nav-sidebar{
+    
+}
+
+.nav-sidebar {
+    padding-top : 30px
+}
+
+
+.sid {
+    margin-bottom: 12px;
+}
+
+.main {
+    margin-top: 15px;
+    background-color: 
+}
+
+placeholders{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.placeholder{
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.placeholder img{
+    display: inline;
+}
+.sub-header {
+    margin-top: 15px
+}
